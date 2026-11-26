@@ -46,25 +46,3 @@ O React segue o princípio do **fluxo de dados unidirecional** (*One-Way Data Fl
 
 ---
 
-## 🚀 Como Executar Localmente
-
-```bash
-# 1. Instalar as dependências
-npm install
-
-# 2. Rodar o servidor de desenvolvimento
-npm run dev
-```
-
----
-
-## 📦 Como Enviar para o GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: implementa lifting state up, gerenciador de tarefas e useEffect com cleanup"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-git push -u origin main
-```
